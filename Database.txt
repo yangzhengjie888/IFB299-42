@@ -1,14 +1,25 @@
 User account
-userid username, password, email
+user_id,user_name, password, email
 
 
 userprofile
-userid,user_hobby, user_photo,
+user_id,user_name,user_hobby, user_photo,user_country,..............
 
 
 storage 
-userid ,storage, storage_used,
+storage_id, storage_total,storage_used, user_id
 
 media 
-mediaid, mediatype,media_title, media_upload_date,media_modified_date,
-media_size,media_description
+media_id, media_type,media_title, media_uploaddate,media_modifydate,
+media_size,media_description, media_link,media_favourite,media_location
+
+folder
+folder_id, folder_name, folder_location,media_id
+
+recycle bin
+bin_id, media_id
+
+
+
+
+
