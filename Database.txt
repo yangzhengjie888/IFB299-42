@@ -1,23 +1,21 @@
-User account
-user_id,user_name, password, email
-
-
-userprofile
-user_id,user_name,user_hobby, user_photo,user_country,..............
-
+User information
+user_id (int 6),user_name (varchar 20), password (varchar 20), email (varchar 30), user_hobby(), user_photo (directory path),
+user_country(varchar 40),user_birthdate (date),
+user_gender(varchar 2)
 
 storage 
-storage_id, storage_total,storage_used, user_id
+storage_id(int 6), storage_total(),storage_used(), user_id(int 6)
 
 media 
-media_id, media_type,media_title, media_uploaddate,media_modifydate,
-media_size,media_description, media_link,media_favourite,media_location
+media_id(int 6), media_type(varchar 10),media_title(varchar 30),media_uploaddate(date),
+media_modifydate(date),media_size(??), media_description(varchar 50), 
+media_link(varchar 30),media_favourite(??),media_location (??)
 
 folder
-folder_id, folder_name, folder_location,media_id
+folder_id(int 6), folder_name(varchar 20), folder_location(??),media_id(int 6)
 
 recycle bin
-bin_id, media_id
+bin_id(int 6), bin_size(??), media_id(int 6)
 
 
 
