@@ -15,7 +15,7 @@ folder
 folder_id(int 6), folder_name(varchar 20), folder_location(??),media_id(int 6)
 
 recycle bin
-bin_id(int 6), bin_size(??), media_id(int 6)
+bin_id(int 6), bin_size(???), media_id(int 6)
 
 
 
