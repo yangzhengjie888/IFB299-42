@@ -1,18 +1,18 @@
   <html>
   <body>
   <form action="" enctype="multipart/form-data" method="post" 
-      name="uploadfile">上传文件：<input type="file" name="upfile" /><br> 
-      <input type="submit" value="上传" /></form> 
+      name="uploadfile">File uploaded：<input type="file" name="upfile" /><br> 
+      <input type="submit" value="upload" /></form> 
       <?php 
       //print_r($_FILES["upfile"]); 
       if(is_uploaded_file($_FILES['upfile']['tmp_name'])){ 
       $upfile=$_FILES["upfile"]; 
-      //获取数组里面的值 
-      $name=$upfile["name"];//上传文件的文件名 
-      $type=$upfile["type"];//上传文件的类型 
-      $size=$upfile["size"];//上传文件的大小 
-      $tmp_name=$upfile["tmp_name"];//上传文件的临时存放路径 
-      //判断是否为图片 
+      
+      $name=$upfile["name"];
+      $type=$upfile["type"];
+      $size=$upfile["size"];
+      $tmp_name=$upfile["tmp_name"];
+      
       switch ($type){ 
       case 'image/pjpeg':$okType=true; 
       break; 
@@ -24,15 +24,8 @@
       break; 
       } 
       if($okType){ 
-      /** 
-      * 0:文件上传成功<br/> 
-      * 1：超过了文件大小，在php.ini文件中设置<br/> 
-      * 2：超过了文件的大小MAX_FILE_SIZE选项指定的值<br/> 
-      * 3：文件只有部分被上传<br/> 
-      * 4：没有文件被上传<br/> 
-      * 5：上传文件大小为0 
-      */ 
-      $error=$upfile["error"];//上传后系统返回的值 
+      
+      $error=$upfile["error"];
       echo "================<br/>"; 
       echo "File name：".$name."<br/>"; 
       echo "File type：".$type."<br/>"; 
