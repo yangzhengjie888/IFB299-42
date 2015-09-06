@@ -1,4 +1,6 @@
-<?php  
+<html>
+    <body>
+      <?php  
     if(isset($_POST["submit"]) && $_POST["submit"] == "Login")  
     {  
         $user = $_POST["username"];  
@@ -32,3 +34,6 @@
     }  
   
 ?>  
+  
+    </body>
+</html>
