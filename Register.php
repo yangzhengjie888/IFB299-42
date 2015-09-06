@@ -1,4 +1,6 @@
-<?php  
+<html>
+    <body>
+        <?php  
     if(isset($_POST["Submit"]) && $_POST["Submit"] == "Register")  
     {  
         $user = $_POST["username"];  
@@ -48,3 +50,6 @@
         echo "<script>alert('Submission fail'); history.go(-1);</script>";  
     }  
 ?>  
+
+    </body>
+</html>
