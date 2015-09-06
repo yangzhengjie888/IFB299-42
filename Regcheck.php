@@ -1,3 +1,5 @@
+<html>
+<body>
 <form action="regcheck.php" method="post">  
     Username:<input type="text" name="username"/>  
     <br/>  
@@ -7,3 +9,5 @@
     <br/>  
     <input type="Submit" name="Submit" value="Register"/>  
 </form>  
+</body>
+</html>
