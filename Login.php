@@ -1,3 +1,5 @@
+<html>
+<body>
 <form action="logincheck.php" method="post">  
     Username:<input type="text" name="username" />  
     <br />  
@@ -7,3 +9,6 @@
           
     <a href="register.php">Register</a>  
 </form>  
+    
+</body>
+</html>
