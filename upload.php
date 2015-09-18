@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     }
 
     $filename=$file["tmp_name"];
-    $image_size = getimagesize($filename);
+    $image_size = getimagesize($file["name"]);
     $pinfo=pathinfo($file["name"]);
     $ftype=$pinfo['extension'];
     $destination = $destination_folder.time().".".$ftype;
@@ -109,4 +109,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 
 ?>
 </body>
+
+
 
