@@ -6249,9 +6249,9 @@ Notes:<br/>
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-7]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-7">Find lost user name and password</a>
+                        [FOUTWO-7]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-7">Find lost password</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
                                             </span>
             </h3>
@@ -6383,7 +6383,7 @@ Notes:<br/>
 
                         <tr>
                 <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
-                <td id="customfield_10002-13904-value" class="value" bgcolor="#ffffff" width="80%">    2
+                <td id="customfield_10002-13904-value" class="value" bgcolor="#ffffff" width="80%">    4
 </td>
             </tr>
             </table>
@@ -6403,11 +6403,11 @@ Notes:<br/>
     <tr>
         <td id="descriptionArea">
             <p>User story:<br/>
-●	As a user, I want to be able to find my user name and password via verified email so that I can find them if i forgot my user name and password.</p>
+●	As a user, I want to be able to find my lost password via verified email so that I can find it if i forgot my password.</p>
 
 <p>Acceptance criteria:<br/>
 ●	Provide a text box for user to type verified email<br/>
-●	System will send the user name and password to verified email</p>
+●	System will send the reset password URL to verified email</p>
             <br/>
         </td>
     </tr>
@@ -7500,7 +7500,7 @@ Notes:<br/>
             <p>This is not a user story</p>
         </td></tr>
             </table>
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Sep 19 10:39:43 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Sep 19 11:24:59 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
 
 </body>
 </html>
