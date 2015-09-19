@@ -1621,16 +1621,15 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-34]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-34">External access (WAN)</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 01/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
-                                                    &nbsp;Resolved: 01/Sep/15
-                            </span>
+                                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Closed</td>
+        <td width="80%">Reopened</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -1699,7 +1698,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                            Fixed
+            				Unresolved
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -1810,6 +1809,20 @@ hr.fullcontent
         </td></tr>
         <tr id="comment-body-11577"><td bgcolor="#ffffff">
             <p>This is not a user story</p>
+        </td></tr>
+                <tr id="comment-header-11692"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="n9327754" id="word_commented_n9327754" href="https://sefteach01.qut.edu.au/jira/secure/ViewProfile.jspa?name=n9327754">Zhengjie Yang</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">19/Sep/15</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-11692"><td bgcolor="#ffffff">
+            <p>We think this function is very important. So we reopen it again.</p>
         </td></tr>
             </table>
 <hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
@@ -3344,9 +3357,9 @@ hr.fullcontent
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-24]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-24">Drop media items and folders in recycle bin</a>
+                        [FOUTWO-24]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-24">Drop media items in recycle bin</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
                                             </span>
             </h3>
@@ -3478,7 +3491,7 @@ hr.fullcontent
 
                         <tr>
                 <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
-                <td id="customfield_10002-13921-value" class="value" bgcolor="#ffffff" width="80%">    4
+                <td id="customfield_10002-13921-value" class="value" bgcolor="#ffffff" width="80%">    8
 </td>
             </tr>
             </table>
@@ -5726,9 +5739,9 @@ hr.fullcontent
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-10]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-10">Rename item and folder</a>
+                        [FOUTWO-10]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-10">Rename item</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
                                             </span>
             </h3>
@@ -5880,10 +5893,10 @@ hr.fullcontent
     <tr>
         <td id="descriptionArea">
             <p>User story:<br/>
-●	As a user, I want to be able to rename media file and folder so that I can fully understand the media files and folders.</p>
+●	As a user, I want to be able to rename media file so that I can fully understand the media files.</p>
 
 <p>Acceptance criteria:<br/>
-●	System provides a function to rename the items and folders</p>
+●	System provides a function to rename the items</p>
             <br/>
         </td>
     </tr>
@@ -5894,9 +5907,9 @@ hr.fullcontent
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-9]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-9">Create folder</a>
+                        [FOUTWO-9]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-9">Login with verified email address</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
                                             </span>
             </h3>
@@ -6028,7 +6041,7 @@ hr.fullcontent
 
                         <tr>
                 <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
-                <td id="customfield_10002-13906-value" class="value" bgcolor="#ffffff" width="80%">    2
+                <td id="customfield_10002-13906-value" class="value" bgcolor="#ffffff" width="80%">    4
 </td>
             </tr>
             </table>
@@ -6048,11 +6061,12 @@ hr.fullcontent
     <tr>
         <td id="descriptionArea">
             <p>User story:<br/>
-●	As a user, I want to be able to create folders so that I can easily manage my media items.</p>
-
-<p>Acceptance criteria:<br/>
-●	Folder name can be renamed<br/>
-●	Folders can be organized</p>
+●	As a user, I want to be able to login use my verified email address so that I can access my vault if I forgot my user name.<br/>
+Acceptance criteria:<br/>
+●	Provide a process to link user account and email<br/>
+●	Need to verify email address<br/>
+Notes:<br/>
+●	One user account can only be linked with one email address</p>
             <br/>
         </td>
     </tr>
@@ -6573,9 +6587,9 @@ hr.fullcontent
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-5]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-5">Login with verified email address</a>
+                        [FOUTWO-5]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-5">Verify email address</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
                                             </span>
             </h3>
@@ -6727,7 +6741,7 @@ hr.fullcontent
     <tr>
         <td id="descriptionArea">
             <p>User story:<br/>
-●	As a user, I want to be able to login use my verified email address so that I can access my vault if I forgot my user name.</p>
+●	As a user, I want to be able to verify my email address so that I can make sure my account more secure and use linked email address to login or find lost user name and password.</p>
 
 <p>Acceptance criteria:<br/>
 ●	Provide a process to link user account and email<br/>
@@ -7087,16 +7101,15 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-2]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-2"> Browse the media vault on mobile phone</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 01/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
 
-                                                    &nbsp;Resolved: 01/Sep/15
-                            </span>
+                                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Closed</td>
+        <td width="80%">Reopened</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -7165,7 +7178,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                            Fixed
+            				Unresolved
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -7275,6 +7288,20 @@ hr.fullcontent
         </td></tr>
         <tr id="comment-body-11576"><td bgcolor="#ffffff">
             <p>This is not a user story</p>
+        </td></tr>
+                <tr id="comment-header-11693"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="n9327754" id="word_commented_n9327754" href="https://sefteach01.qut.edu.au/jira/secure/ViewProfile.jspa?name=n9327754">Zhengjie Yang</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">19/Sep/15</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-11693"><td bgcolor="#ffffff">
+            <p>We think this function is very important. And we think this is a user story for user experience so we reopen it again</p>
         </td></tr>
             </table>
 <hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
@@ -7473,7 +7500,7 @@ hr.fullcontent
             <p>This is not a user story</p>
         </td></tr>
             </table>
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Tue Sep 08 19:51:41 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Sep 19 10:39:43 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
 
 </body>
 </html>
