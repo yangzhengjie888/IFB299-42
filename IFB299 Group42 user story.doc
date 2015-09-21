@@ -1448,15 +1448,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-35]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-35">Enable domain name access</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -1525,7 +1526,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -1621,15 +1622,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-34]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-34">External access (WAN)</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Reopened</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -1698,7 +1700,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -2346,15 +2348,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-30]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-30">Show detailed media information</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -2423,7 +2426,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -3188,17 +3191,18 @@ hr.fullcontent
     <tr>
         <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
                             <h3 class="formtitle">
-                        [FOUTWO-25]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-25">Delete media files and folders</a>
+                        [FOUTWO-25]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-25">Delete media files</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -3267,7 +3271,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -3530,15 +3534,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-23]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-23">Tooltip</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -3607,7 +3612,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -4213,15 +4218,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-19]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-19">Media playback in browser</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -4290,7 +4296,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -4385,15 +4391,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-18]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-18">Download media</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -4462,7 +4469,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -4553,15 +4560,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-17]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-17">Upload media  - Photos, Videos, Music, Ebook</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -4630,7 +4638,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -5228,15 +5236,16 @@ hr.fullcontent
                             <h3 class="formtitle">
                         [FOUTWO-13]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-13">Search media</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -5305,7 +5314,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -6251,15 +6260,16 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-7]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-7">Find lost password</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -6328,7 +6338,7 @@ Notes:<br/>
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -6420,15 +6430,16 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-6]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-6">Log out from media vault</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -6497,7 +6508,7 @@ Notes:<br/>
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -6589,15 +6600,16 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-5]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-5">Verify email address</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -6666,7 +6678,7 @@ Notes:<br/>
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -6761,15 +6773,16 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-4]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-4">Create user accounts for log in</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 25/Aug/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Open</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -6838,7 +6851,7 @@ Notes:<br/>
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -7101,15 +7114,16 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-2]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-2"> Browse the media vault on mobile phone</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 19/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                            </span>
+                                                    &nbsp;Resolved: 22/Sep/15
+                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Reopened</td>
+        <td width="80%">Resolved</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -7178,7 +7192,7 @@ Notes:<br/>
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-            				Unresolved
+                            Done
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -7311,9 +7325,9 @@ Notes:<br/>
                             <h3 class="formtitle">
                         [FOUTWO-1]&nbsp;<a href="https://sefteach01.qut.edu.au/jira/browse/FOUTWO-1">Browse the media vault on laptop</a>
             <span class="subText">
-               Created: 25/Aug/15                   &nbsp;Updated: 01/Sep/15
+               Created: 25/Aug/15                   &nbsp;Updated: 22/Sep/15
 
-                                                    &nbsp;Resolved: 01/Sep/15
+                                                    &nbsp;Resolved: 22/Sep/15
                             </span>
             </h3>
         </td>
@@ -7500,7 +7514,7 @@ Notes:<br/>
             <p>This is not a user story</p>
         </td></tr>
             </table>
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sat Sep 19 11:24:59 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Tue Sep 22 03:03:46 EST 2015 by Zhengjie Yang using JIRA 6.2.7#6265-sha1:91604a8de81892a3e362e0afee505432f29579b0.
 
 </body>
 </html>
