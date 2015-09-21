@@ -1,0 +1,65 @@
+create table user_information(
+	user_id int(6),
+	user_name varchar(20),
+	user_password varchar(20),
+	user_email varchar(20),	
+	user_hobby varchar(20),
+	user_photo varchar(80),
+	user_country varchar(40),
+	user_birth_date date,
+	user_gender varchar(2),
+
+	PRIMARY KEY (user_id)
+);
+
+create table storage(
+	storage_id int(6),
+	storage_total int(10),
+	storage_used int(10),
+	user_id int(6),
+
+	PRIMARY KEY (storage_id),
+	FOREIGN KEY (user_id) REFERENCES user_information(user_id));
+
+
+create table media(
+	media_id int(6),
+	media_type varchar(10),
+	media_title varchar(30),
+	media_upload_date date,
+	media_modify_date date,
+	media_size int(10),
+	media_description varchar(200),
+	media_link varchar(30),
+	media_favorite varchar(2),
+	media_location varchar(80),
+	user_id int(6),
+
+	PRIMARY KEY (media_id),
+	FOREIGN KEY (user_id) REFERENCES user_information(user_id)
+);
+
+create table folder(
+	folder_id int(6),
+	folder_name varchar(20),
+	folder_location varchar(80),
+	media_id int(6),
+	user_id int(6),
+
+	PRIMARY KEY (folder_id),
+	FOREIGN KEY (media_id) REFERENCES media(media_id),
+	FOREIGN KEY (user_id) REFERENCES user_information(user_id)
+);
+
+
+create table recycle_bin(
+	bin_id int(6),
+	bin_total int(10),
+	bin_used int(10),
+	media_id int(6),
+	user_id int(6),
+	PRIMARY KEY (bin_id),
+	FOREIGN KEY (media_id) REFERENCES media(media_id),
+	FOREIGN KEY (user_id) REFERENCES user_information(user_id)
+);
+
